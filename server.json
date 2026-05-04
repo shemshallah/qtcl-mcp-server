@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.qtcl-mcp-server",
+  "title": "QTCL — Quantum Token Chain Ledger",
+  "description": "Post-quantum blockchain with flat-fee agent transactions, native MCP tools for balance, send, quantum metrics, and oracle consensus. Built for autonomous agent economies.",
+  "version": "8.2.0",
+  "websiteUrl": "https://qtcl-blockchain.koyeb.app/agents",
+  "repository": {
+    "url": "https://github.com/qtcl-mcp-server",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "sse",
+      "url": "https://qtcl-blockchain.koyeb.app/mcp/sse"
+    }
+  ]
+}
