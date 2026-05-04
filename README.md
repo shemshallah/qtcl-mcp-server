@@ -1,6 +1,6 @@
 # QTCL — Quantum Blockchain MCP Server
 
-<!-- mcp-name: io.github.qtcl-mcp-server/qtcl-blockchain -->
+<!-- mcp-name: io.github.shemshallah/qtcl-mcp-server -->
 
 **The first post-quantum blockchain with a native Model Context Protocol server.**
 
